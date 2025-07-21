@@ -2,10 +2,10 @@
 
 # my-fullstack-app
 
-![GitHub Created At](https://img.shields.io/github/created-at/HimavanthSurya/InterviewPrep)
-![GitHub last commit](https://img.shields.io/github/last-commit/HimavanthSurya/InterviewPrep)
-![Repo Size](https://img.shields.io/github/repo-size/HimavanthSurya/InterviewPrep)
-![Pull Requests](https://img.shields.io/github/issues-pr/HimavanthSurya/InterviewPrep)
+![GitHub Created At](https://img.shields.io/github/created-at/HimavanthSurya/my-fullstack-app)
+![GitHub last commit](https://img.shields.io/github/last-commit/HimavanthSurya/my-fullstack-app)
+![Repo Size](https://img.shields.io/github/repo-size/HimavanthSurya/my-fullstack-app)
+![Pull Requests](https://img.shields.io/github/issues-pr/HimavanthSurya/my-fullstack-app)
 
 <!--
 ![Contributors](https://img.shields.io/github/contributors/HimavanthSurya/InterviewPrep)
