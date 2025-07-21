@@ -1,6 +1,6 @@
 <!-- ![Build](https://img.shields.io/github/actions/workflow/status/HimavanthSurya/InterviewPrep/main.yml?branch=main) -->
 
-# InterviewPrep
+# my-fullstack-app
 
 ![GitHub Created At](https://img.shields.io/github/created-at/HimavanthSurya/InterviewPrep)
 ![GitHub last commit](https://img.shields.io/github/last-commit/HimavanthSurya/InterviewPrep)
