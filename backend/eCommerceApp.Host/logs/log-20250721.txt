@@ -1,0 +1,59 @@
+2025-07-21 13:12:30.939 +05:30 [INF] Application Starting Up...
+2025-07-21 13:12:33.991 +05:30 [INF] Application is running...
+2025-07-21 13:12:34.295 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44385/swagger/index.html - null null
+2025-07-21 13:12:34.440 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-07-21 13:12:34.440 +05:30 [INF] Hosting environment: Development
+2025-07-21 13:12:34.441 +05:30 [INF] Content root path: E:\AspNetCore-Practice\eCommerceAppSolution\backend\eCommerceApp.Host
+2025-07-21 13:12:35.168 +05:30 [INF] HTTP GET /swagger/index.html responded 200 in 113.9306 ms
+2025-07-21 13:12:35.182 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44385/swagger/index.html - 200 null text/html;charset=utf-8 898.5905ms
+2025-07-21 13:12:35.282 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44385/_framework/aspnetcore-browser-refresh.js - null null
+2025-07-21 13:12:35.298 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44385/_framework/aspnetcore-browser-refresh.js - 200 16519 application/javascript; charset=utf-8 8.8605ms
+2025-07-21 13:12:35.596 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44385/_vs/browserLink - null null
+2025-07-21 13:12:35.854 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44385/_vs/browserLink - 200 null text/javascript; charset=UTF-8 257.9815ms
+2025-07-21 13:12:36.036 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44385/swagger/v1/swagger.json - null null
+2025-07-21 13:12:36.064 +05:30 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 23.5009 ms
+2025-07-21 13:12:36.069 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44385/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 33.4802ms
+2025-07-21 13:13:00.039 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44385/WeatherForecast - null null
+2025-07-21 13:13:00.600 +05:30 [INF] Executing endpoint 'eCommerceApp.Host.Controllers.WeatherForecastController.Get (eCommerceApp.Host)'
+2025-07-21 13:13:00.633 +05:30 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[eCommerceApp.Host.WeatherForecast] Get() on controller eCommerceApp.Host.Controllers.WeatherForecastController (eCommerceApp.Host).
+2025-07-21 13:13:00.644 +05:30 [INF] Executing ObjectResult, writing value of type 'eCommerceApp.Host.WeatherForecast[]'.
+2025-07-21 13:13:00.677 +05:30 [INF] Executed action eCommerceApp.Host.Controllers.WeatherForecastController.Get (eCommerceApp.Host) in 40.7677ms
+2025-07-21 13:13:00.677 +05:30 [INF] Executed endpoint 'eCommerceApp.Host.Controllers.WeatherForecastController.Get (eCommerceApp.Host)'
+2025-07-21 13:13:00.677 +05:30 [INF] HTTP GET /WeatherForecast responded 200 in 636.2263 ms
+2025-07-21 13:13:00.678 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44385/WeatherForecast - 200 null application/json; charset=utf-8 638.8861ms
+2025-07-21 13:15:08.033 +05:30 [INF] Application Starting Up...
+2025-07-21 13:15:08.427 +05:30 [INF] Application is running...
+2025-07-21 13:15:08.681 +05:30 [INF] Now listening on: https://localhost:7067
+2025-07-21 13:15:08.685 +05:30 [INF] Now listening on: http://localhost:5222
+2025-07-21 13:15:08.830 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-07-21 13:15:08.840 +05:30 [INF] Hosting environment: Development
+2025-07-21 13:15:08.843 +05:30 [INF] Content root path: E:\AspNetCore-Practice\eCommerceAppSolution\backend\eCommerceApp.Host
+2025-07-21 13:15:10.187 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7067/swagger - null null
+2025-07-21 13:15:10.342 +05:30 [INF] HTTP GET /swagger responded 301 in 4.5019 ms
+2025-07-21 13:15:10.350 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7067/swagger - 301 0 null 169.9005ms
+2025-07-21 13:15:10.356 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7067/swagger/index.html - null null
+2025-07-21 13:15:10.449 +05:30 [INF] HTTP GET /swagger/index.html responded 200 in 84.0213 ms
+2025-07-21 13:15:10.455 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7067/swagger/index.html - 200 null text/html;charset=utf-8 99.5935ms
+2025-07-21 13:15:10.470 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7067/swagger/swagger-ui.css - null null
+2025-07-21 13:15:10.472 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7067/swagger/swagger-ui-bundle.js - null null
+2025-07-21 13:15:10.479 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7067/swagger/swagger-ui-standalone-preset.js - null null
+2025-07-21 13:15:10.480 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7067/_framework/aspnetcore-browser-refresh.js - null null
+2025-07-21 13:15:10.539 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-07-21 13:15:11.372 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2025-07-21 13:15:11.369 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7067/_vs/browserLink - null null
+2025-07-21 13:15:11.387 +05:30 [INF] HTTP GET /swagger/swagger-ui-standalone-preset.js responded 200 in 851.3425 ms
+2025-07-21 13:15:11.380 +05:30 [INF] HTTP GET /swagger/swagger-ui.css responded 200 in 904.4840 ms
+2025-07-21 13:15:11.401 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7067/swagger/swagger-ui-standalone-preset.js - 200 230280 text/javascript 922.8619ms
+2025-07-21 13:15:11.431 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7067/swagger/swagger-ui.css - 200 152034 text/css 960.7246ms
+2025-07-21 13:15:11.387 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7067/_framework/aspnetcore-browser-refresh.js - 200 16519 application/javascript; charset=utf-8 906.1256ms
+2025-07-21 13:15:11.422 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2025-07-21 13:15:11.448 +05:30 [INF] HTTP GET /swagger/swagger-ui-bundle.js responded 200 in 970.0317 ms
+2025-07-21 13:15:11.450 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7067/swagger/swagger-ui-bundle.js - 200 1456926 text/javascript 978.2382ms
+2025-07-21 13:15:11.472 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7067/_vs/browserLink - 200 null text/javascript; charset=UTF-8 107.9666ms
+2025-07-21 13:15:11.849 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7067/swagger/v1/swagger.json - null null
+2025-07-21 13:15:11.906 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7067/swagger/favicon-32x32.png - null null
+2025-07-21 13:15:12.364 +05:30 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2025-07-21 13:15:12.366 +05:30 [INF] HTTP GET /swagger/favicon-32x32.png responded 200 in 2.1358 ms
+2025-07-21 13:15:12.370 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7067/swagger/favicon-32x32.png - 200 628 image/png 465.73ms
+2025-07-21 13:15:12.383 +05:30 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 18.3783 ms
+2025-07-21 13:15:12.384 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7067/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 535.8729ms
