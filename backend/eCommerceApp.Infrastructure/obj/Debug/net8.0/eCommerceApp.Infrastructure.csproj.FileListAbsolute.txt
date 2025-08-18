@@ -32,3 +32,4 @@ E:\AspNetCore-Practice\eCommerceAppSolution\backend\eCommerceApp.Infrastructure\
 E:\AspNetCore-Practice\eCommerceAppSolution\backend\eCommerceApp.Infrastructure\obj\Debug\net8.0\refint\eCommerceApp.Infrastructure.dll
 E:\AspNetCore-Practice\eCommerceAppSolution\backend\eCommerceApp.Infrastructure\obj\Debug\net8.0\eCommerceApp.Infrastructure.pdb
 E:\AspNetCore-Practice\eCommerceAppSolution\backend\eCommerceApp.Infrastructure\obj\Debug\net8.0\ref\eCommerceApp.Infrastructure.dll
+E:\AspNetCore-Practice\eCommerceAppSolution\backend\eCommerceApp.Infrastructure\obj\Debug\net8.0\eCommerceApp.Infrastructure.sourcelink.json

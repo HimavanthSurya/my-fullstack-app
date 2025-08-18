@@ -20,3 +20,5 @@ E:\AspNetCore-Practice\eCommerceAppSolution\backend\eCommerceApp.Domain\obj\Debu
 E:\AspNetCore-Practice\eCommerceAppSolution\backend\eCommerceApp.Domain\obj\Debug\net8.0\refint\eCommerceApp.Domain.dll
 E:\AspNetCore-Practice\eCommerceAppSolution\backend\eCommerceApp.Domain\obj\Debug\net8.0\eCommerceApp.Domain.pdb
 E:\AspNetCore-Practice\eCommerceAppSolution\backend\eCommerceApp.Domain\obj\Debug\net8.0\ref\eCommerceApp.Domain.dll
+E:\AspNetCore-Practice\eCommerceAppSolution\backend\eCommerceApp.Domain\obj\Debug\net8.0\eCommerceApp.Domain.sourcelink.json
+E:\AspNetCore-Practice\eCommerceAppSolution\backend\eCommerceApp.Domain\obj\Debug\net8.0\eCommerceApp.Domain.csproj.AssemblyReference.cache
